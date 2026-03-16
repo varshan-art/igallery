@@ -1,0 +1,37 @@
+body{
+    text-align:center;
+    font-family:Arial;
+    background-color:lightgreen;
+    background-size:cover;
+    color:green;
+    padding:fixed;
+}
+.gallery{
+    background:whitesmoke;
+    width:300px;
+    margin:auto;
+    padding:20px;
+    border-radius:20px;
+}
+img{
+    border-radius:20px;
+    width:100%;
+}
+button{
+    padding:8px 15px;
+    margin:10px;
+    background:linear-gradient(lightgreen,green,lightgreen);
+    color:white;
+    border:none;
+    cursor:pointer;
+    border-radius:5px;
+}
+footer{
+    text-align:center;
+    padding: 10px;
+    background:linear-gradient(45deg,green,lightgreen,green);
+    color:black;
+    position:fixed;
+    bottom:0;
+    width:100%;
+}
